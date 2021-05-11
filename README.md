@@ -1,7 +1,7 @@
 # to-do-app
 
-## Hackerearth Challenge
+### Hackerearth Challenge
 
-### DevOps
+#### DevOps
 
-### Challenges hackathon
+#### Challenges hackathon
