@@ -4,4 +4,4 @@
 
 #### DevOps
 
-#### Challenges hackathon
+#### Challenge hackathon
