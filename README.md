@@ -6,4 +6,4 @@
 
 #### Challenge hackathon
 
-###Used  all devops tools
+###Used all devops tools
